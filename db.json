@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "danya.akimov.2016@gmail.com",
+      "password": "123123"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Andrey",
+      "secondName": "Sergeevich",
+      "email": "12sdfasd23123@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Aleksander",
+      "secondName": "Brown",
+      "email": "123werwer3123@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Maxim",
+      "secondName": "Grey",
+      "email": "1wrwerwer@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Daniil",
+      "secondName": "White",
+      "email": "1asdsadasd@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Mikhail",
+      "secondName": "Black",
+      "email": "123sdfsdfsf@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Daniil",
+      "secondName": "White",
+      "email": "1asdsadasd@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Mikhail",
+      "secondName": "Black",
+      "email": "123sdfsdfsf@gmail.com"
+    }
+  ]
+}
